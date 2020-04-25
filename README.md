@@ -20,6 +20,5 @@ mac开发环境记录
 ##### 3.补全代码
  Preferences: Editor > General > Code Completion
  去勾 Match case 
- 勾 insert selected suggestion by pressing space,dot,or other context-dependent keys 输入点或空格时自动进行代码补全
  勾 show full method signatures 显示参数的完整信息
  show the parameter info popup in 100 ms 在100ms时自动展示文档
