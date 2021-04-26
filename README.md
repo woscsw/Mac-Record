@@ -22,3 +22,5 @@ mac开发环境记录
  去勾 Match case 
  勾 show full method signatures 显示参数的完整信息
  show the parameter info popup in 100 ms 在100ms时自动展示文档
+
+私有仓库 git clone https://用户名:密码@github.com/woscsw/flutter_app.git
